@@ -1,6 +1,6 @@
 <!-- ================== PROFILE HEADER ================== -->
 <p align="center">
-  <img src="img/banner1.jpeg" alt="Rakib Hossen - Software Developer" style="width: 100%; object-fit: cover;" />
+  <img src="img/banner2.jpeg" alt="Rakib Hossen - Software Developer" style="width: 100%; object-fit: cover;" />
 </p>
 
 <h1 align="center">Rakib Hossen</h1>
