@@ -54,7 +54,7 @@ const aboutMe = {
 <h3 align="center">Frameworks & Libraries</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,flask,bootstrap" alt="React, Tailwind CSS, Flask and Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,bootstrap" alt="React, Tailwind CSS, Flask and Bootstrap" />
 </p>
 
 <h3 align="center">Tools & Technologies</h3>
