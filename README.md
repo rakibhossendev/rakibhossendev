@@ -48,7 +48,7 @@ const aboutMe = {
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,java,c" alt="TypeScript, JavaScript, Python, HTML, CSS, Java and C" />
+  <img src="https://skillicons.dev/icons?i=typescript,Node.js,javascript,python,html,css,java,c" alt="TypeScript, JavaScript, Python, HTML, CSS, Java and C" />
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
